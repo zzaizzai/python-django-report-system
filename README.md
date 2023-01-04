@@ -1,4 +1,6 @@
 # Report System
+[DEMO](https://port-0-python-django-report-system-53px25lbxplfd0.gksl2.cloudtype.app/)
+
 
 ## Intro.
 It is very important for us to manage data which we got from some evaluation or measurement in company.     
@@ -13,7 +15,11 @@ REPORT
 ```
 23/1/5 build init
 ```
- 
+
+
+ I appreciate [Cloud Type](https://cloudtype.io/) for free and fast hosting service
+
+ ---
 ## License
 This project is licensed under the MIT license, Copyright (c) 2020 django-boilerplate. For more information see [LICENSE].
 
